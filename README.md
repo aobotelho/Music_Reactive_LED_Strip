@@ -1,2 +1,2 @@
 # MusicReactiveLEDStrip
-This is the project for my music reactive LED Strip projcet
+This is the project for my music reactive LED Strip project
